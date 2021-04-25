@@ -1,0 +1,13 @@
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\bin\Debug\netcoreapp3.1\Task6(Methods).exe
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\bin\Debug\netcoreapp3.1\Task6(Methods).deps.json
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\bin\Debug\netcoreapp3.1\Task6(Methods).runtimeconfig.json
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\bin\Debug\netcoreapp3.1\Task6(Methods).runtimeconfig.dev.json
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\bin\Debug\netcoreapp3.1\Task6(Methods).dll
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\bin\Debug\netcoreapp3.1\Task6(Methods).pdb
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\obj\Debug\netcoreapp3.1\Task6(Methods).csprojAssemblyReference.cache
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\obj\Debug\netcoreapp3.1\Task6(Methods).AssemblyInfoInputs.cache
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\obj\Debug\netcoreapp3.1\Task6(Methods).AssemblyInfo.cs
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\obj\Debug\netcoreapp3.1\Task6(Methods).csproj.CoreCompileInputs.cache
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\obj\Debug\netcoreapp3.1\Task6(Methods).dll
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\obj\Debug\netcoreapp3.1\Task6(Methods).pdb
+D:\ForC#\Task6(Methods)\Task6(Methods)\Task6(Methods)\obj\Debug\netcoreapp3.1\Task6(Methods).genruntimeconfig.cache
